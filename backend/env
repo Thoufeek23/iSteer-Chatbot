@@ -1,2 +1,2 @@
-GEMINI_API_KEY=AIzaSyAjECrx0vhdE4hfxCuYIPh4G8Fa3XQtb8w
+GEMINI_API_KEY= #Removed due to security concerns
 TARGET_URL=https://isteer.com/
