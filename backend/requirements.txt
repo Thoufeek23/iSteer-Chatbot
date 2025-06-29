@@ -1,0 +1,7 @@
+google-generativeai
+langchain
+langchain-google-genai
+langchain-community
+beautifulsoup4
+html2text
+faiss-cpu
