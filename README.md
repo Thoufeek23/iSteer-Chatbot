@@ -1,5 +1,3 @@
-# iSteer Chatbot
-
 An intelligent, full-stack web application featuring a Retrieval-Augmented Generation (RAG) chatbot. The iSteer Chatbot dynamically crawls a target website, processes and indexes its content, and uses Google's Gemini AI to answer user queries with high accuracy based on the scraped context.
 
 ## Features
