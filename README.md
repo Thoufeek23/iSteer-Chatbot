@@ -2,7 +2,7 @@
 
 An intelligent, full-stack web application featuring a Retrieval-Augmented Generation (RAG) chatbot. The iSteer Chatbot dynamically crawls a target website, processes and indexes its content, and uses Google's Gemini AI to answer user queries with high accuracy based on the scraped context.
 
-## 🚀 Features
+## Features
 
 * **Dynamic Web Scraping:** Automatically crawls and extracts text from up to 100 internal pages of a specified target URL.
 * **Retrieval-Augmented Generation (RAG):** Chunks scraped text and converts it into embeddings using `GoogleGenerativeAIEmbeddings`, storing them in a local FAISS vector database for rapid semantic search.
@@ -10,7 +10,7 @@ An intelligent, full-stack web application featuring a Retrieval-Augmented Gener
 * **Custom Intent Handling:** Intercepts specific user intents (like "contact" or "reach out") to serve custom HTML responses with direct links to the company's contact page.
 * **Modern UI/UX:** A clean, responsive frontend built with vanilla HTML/CSS/JS, featuring typing indicators, auto-scrolling, and a polished chat interface.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Backend:**
 * [Python 3.8+](https://www.python.org/)
